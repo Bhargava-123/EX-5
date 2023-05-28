@@ -44,10 +44,11 @@ while True:
 ```
 # OUTPUT :
 ## Client
-![image](https://github.com/Bhargava-123/EX-5/assets/85554376/f154bd95-a6f1-40f1-a717-f9c76c7747c2)
+![image](https://github.com/Bhargava-123/EX-5/assets/85554376/00d27802-2db6-41ac-b999-443a9d5e049a)
 
 ## Server
-![Uploading image.png…]()
+![image](https://github.com/Bhargava-123/EX-5/assets/85554376/706b35e2-3438-4783-b597-e31960a92cd8)
+
 
 
 # RESULT:
